@@ -3,7 +3,7 @@ import React, { useState, useEffect } from "react";
 import "./App.css";
 const api = {
   key: "b7e596c4ed4704c7234839100bbf1d77",
-  base: "http://api.openweathermap.org/data/2.5/",
+  base: "https://api.openweathermap.org/data/2.5/",
 };
 
 function App() {
